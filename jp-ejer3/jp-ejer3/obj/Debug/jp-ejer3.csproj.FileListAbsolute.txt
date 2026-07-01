@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\IVV\jp-ejer3\bin\Debug\jp-ejer3.exe.config
+C:\Users\UPN\Desktop\IVV\jp-ejer3\bin\Debug\jp-ejer3.exe
+C:\Users\UPN\Desktop\IVV\jp-ejer3\bin\Debug\jp-ejer3.pdb
+C:\Users\UPN\Desktop\IVV\jp-ejer3\obj\Debug\jp-ejer3.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\IVV\jp-ejer3\obj\Debug\jp-ejer3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\IVV\jp-ejer3\obj\Debug\jp-ejer3.exe
+C:\Users\UPN\Desktop\IVV\jp-ejer3\obj\Debug\jp-ejer3.pdb
