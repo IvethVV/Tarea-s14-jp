@@ -1,0 +1,10 @@
+D:\Escritorio\Repositorios_Prueba\TS14_EJ6\obj\Debug\TS14_EJ6.csproj.AssemblyReference.cache
+D:\Escritorio\Repositorios_Prueba\TS14_EJ6\obj\Debug\TS14_EJ6.Form1.resources
+D:\Escritorio\Repositorios_Prueba\TS14_EJ6\obj\Debug\TS14_EJ6.Properties.Resources.resources
+D:\Escritorio\Repositorios_Prueba\TS14_EJ6\obj\Debug\TS14_EJ6.csproj.GenerateResource.cache
+D:\Escritorio\Repositorios_Prueba\TS14_EJ6\obj\Debug\TS14_EJ6.csproj.CoreCompileInputs.cache
+D:\Escritorio\Repositorios_Prueba\TS14_EJ6\bin\Debug\TS14_EJ6.exe.config
+D:\Escritorio\Repositorios_Prueba\TS14_EJ6\bin\Debug\TS14_EJ6.exe
+D:\Escritorio\Repositorios_Prueba\TS14_EJ6\bin\Debug\TS14_EJ6.pdb
+D:\Escritorio\Repositorios_Prueba\TS14_EJ6\obj\Debug\TS14_EJ6.exe
+D:\Escritorio\Repositorios_Prueba\TS14_EJ6\obj\Debug\TS14_EJ6.pdb
