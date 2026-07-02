@@ -1,0 +1,10 @@
+C:\Users\Nycko\Desktop\TSEM14\Ejercicio_05\Ejercicio_05\obj\Debug\Ejercicio_05.csproj.AssemblyReference.cache
+C:\Users\Nycko\Desktop\TSEM14\Ejercicio_05\Ejercicio_05\obj\Debug\Ejercicio_05.Form1.resources
+C:\Users\Nycko\Desktop\TSEM14\Ejercicio_05\Ejercicio_05\obj\Debug\Ejercicio_05.Properties.Resources.resources
+C:\Users\Nycko\Desktop\TSEM14\Ejercicio_05\Ejercicio_05\obj\Debug\Ejercicio_05.csproj.GenerateResource.cache
+C:\Users\Nycko\Desktop\TSEM14\Ejercicio_05\Ejercicio_05\obj\Debug\Ejercicio_05.csproj.CoreCompileInputs.cache
+C:\Users\Nycko\Desktop\TSEM14\Ejercicio_05\Ejercicio_05\bin\Debug\Ejercicio_05.exe.config
+C:\Users\Nycko\Desktop\TSEM14\Ejercicio_05\Ejercicio_05\bin\Debug\Ejercicio_05.exe
+C:\Users\Nycko\Desktop\TSEM14\Ejercicio_05\Ejercicio_05\bin\Debug\Ejercicio_05.pdb
+C:\Users\Nycko\Desktop\TSEM14\Ejercicio_05\Ejercicio_05\obj\Debug\Ejercicio_05.exe
+C:\Users\Nycko\Desktop\TSEM14\Ejercicio_05\Ejercicio_05\obj\Debug\Ejercicio_05.pdb
